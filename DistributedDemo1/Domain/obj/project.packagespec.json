@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Repos\\C#\\DistributedDemo1\\Domain\\Domain.csproj",
+    "projectName": "Domain",
+    "projectPath": "C:\\Repos\\C#\\DistributedDemo1\\Domain\\Domain.csproj",
+    "outputPath": "C:\\Repos\\C#\\DistributedDemo1\\Domain\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        },
+        "System.ComponentModel.Annotations": {
+          "target": "Package",
+          "version": "[4.6.0-preview.18571.3, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
