@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Repos\\C#\\Distributed Systems Labs\\DistributedDemo2\\Demo2 ASP.NET\\WebAPP\\WebAPP.csproj",
+    "projectUniqueName": "C:\\Projects Repositories\\Distributed-Systems-Labs\\DistributedDemo2\\Demo2 ASP.NET\\WebAPP\\WebAPP.csproj",
     "projectName": "WebAPP",
-    "projectPath": "C:\\Repos\\C#\\Distributed Systems Labs\\DistributedDemo2\\Demo2 ASP.NET\\WebAPP\\WebAPP.csproj",
-    "outputPath": "C:\\Repos\\C#\\Distributed Systems Labs\\DistributedDemo2\\Demo2 ASP.NET\\WebAPP\\obj\\",
+    "projectPath": "C:\\Projects Repositories\\Distributed-Systems-Labs\\DistributedDemo2\\Demo2 ASP.NET\\WebAPP\\WebAPP.csproj",
+    "outputPath": "C:\\Projects Repositories\\Distributed-Systems-Labs\\DistributedDemo2\\Demo2 ASP.NET\\WebAPP\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "C:\\Repos\\C#\\Distributed Systems Labs\\DistributedDemo2\\Demo2 ASP.NET\\DAL\\DAL.csproj": {
-            "projectPath": "C:\\Repos\\C#\\Distributed Systems Labs\\DistributedDemo2\\Demo2 ASP.NET\\DAL\\DAL.csproj"
+          "C:\\Projects Repositories\\Distributed-Systems-Labs\\DistributedDemo2\\Demo2 ASP.NET\\DAL\\DAL.csproj": {
+            "projectPath": "C:\\Projects Repositories\\Distributed-Systems-Labs\\DistributedDemo2\\Demo2 ASP.NET\\DAL\\DAL.csproj"
           }
         }
       }

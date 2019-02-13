@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Repos\C#\Distributed Systems Labs\DistributedDemo2\Demo2 ASP.NET" t="IncludeFlat">
+    <e p="C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET" t="IncludeFlat">
       <e p="DAL" t="IncludeRecursive">
         <e p="AppDbContext.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
@@ -178,13 +178,15 @@
         </e>
       </e>
     </e>
-    <e p="C:\Repos\C#\Distributed Systems Labs\DistributedDemo2\WebAppClient\dist" t="ExcludeRecursive" />
-    <e p="C:\Repos\C#\Distributed Systems Labs\DistributedDemo2\WebAppClient\node_modules" t="ExcludeRecursive">
+    <e p="C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\WebAppClient\node_modules" t="ExcludeRecursive">
       <e p="@types" t="IncludeRecursive">
         <e p="anymatch" t="IncludeRecursive" />
         <e p="bluebird" t="IncludeRecursive" />
+        <e p="bootstrap" t="IncludeRecursive" />
+        <e p="jquery" t="IncludeRecursive" />
         <e p="lodash" t="IncludeRecursive" />
         <e p="node" t="IncludeRecursive" />
+        <e p="sizzle" t="IncludeRecursive" />
         <e p="tapable" t="IncludeRecursive" />
         <e p="uglify-js" t="IncludeRecursive" />
         <e p="webpack" t="IncludeRecursive" />
@@ -192,11 +194,14 @@
       <e p="aurelia-animator-css" t="IncludeRecursive" />
       <e p="aurelia-bootstrapper" t="IncludeRecursive" />
       <e p="aurelia-cli" t="IncludeRecursive" />
+      <e p="aurelia-framework" t="IncludeRecursive" />
       <e p="aurelia-polyfills" t="IncludeRecursive" />
+      <e p="aurelia-router" t="IncludeRecursive" />
       <e p="aurelia-testing" t="IncludeRecursive" />
       <e p="aurelia-tools" t="IncludeRecursive" />
       <e p="aurelia-webpack-plugin" t="IncludeRecursive" />
       <e p="bluebird" t="IncludeRecursive" />
+      <e p="bootstrap" t="IncludeRecursive" />
       <e p="copy-webpack-plugin" t="IncludeRecursive" />
       <e p="css-loader" t="IncludeRecursive" />
       <e p="del" t="IncludeRecursive" />
@@ -208,12 +213,14 @@
       <e p="html-loader" t="IncludeRecursive" />
       <e p="html-webpack-plugin" t="IncludeRecursive" />
       <e p="istanbul-instrumenter-loader" t="IncludeRecursive" />
+      <e p="jquery" t="IncludeRecursive" />
       <e p="json-loader" t="IncludeRecursive" />
       <e p="mini-css-extract-plugin" t="IncludeRecursive" />
       <e p="minimatch" t="IncludeRecursive" />
       <e p="nps" t="IncludeRecursive" />
       <e p="nps-utils" t="IncludeRecursive" />
       <e p="opn" t="IncludeRecursive" />
+      <e p="popper.js" t="IncludeRecursive" />
       <e p="source-map" t="IncludeRecursive" />
       <e p="style-loader" t="IncludeRecursive" />
       <e p="through2" t="IncludeRecursive" />
@@ -266,7 +273,8 @@
       <e p="webpack-cli" t="IncludeRecursive" />
       <e p="webpack-dev-server" t="IncludeRecursive" />
     </e>
-    <e p="C:\Users\User\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\User\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Demo2 ASP.NET.1760393313.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sirgm\.Rider2018.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\sirgm\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sirgm\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Demo2 ASP.NET.2144503958.00" t="ExcludeRecursive" />
   </component>
 </project>
