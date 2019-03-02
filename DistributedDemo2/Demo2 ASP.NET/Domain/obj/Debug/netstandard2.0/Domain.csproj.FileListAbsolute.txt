@@ -10,3 +10,15 @@ C:\Repos\C#\Distributed Systems Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\D
 C:\Repos\C#\Distributed Systems Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
 C:\Repos\C#\Distributed Systems Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.dll
 C:\Repos\C#\Distributed Systems Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\bin\Debug\netstandard2.0\Microsoft.Extensions.Identity.Stores.xml
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Projects Repositories\Distributed-Systems-Labs\DistributedDemo2\Demo2 ASP.NET\Domain\obj\Debug\netstandard2.0\Domain.pdb

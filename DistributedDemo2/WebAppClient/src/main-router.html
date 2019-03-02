@@ -8,23 +8,9 @@
                 aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+        <div  repeat.for="nav of router.navigation" class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
           <ul class="navbar-nav flex-grow-1">
-            <li class="nav-item">
-              <a class="nav-link text-dark">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark">Privacy</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark">Persons</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark">Contacts</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark">ContactTypes</a>
-            </li>
+            <li class="${nav.isActive ? 'active' : ''}"><a href.bind="nav.href">${nav.title}</a></li>
           </ul>
         </div>
       </div>
@@ -37,7 +23,7 @@
   </div>
   <footer class="border-top footer text-muted">
     <div class="container">
-      &copy; 2019 - WebAPP - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+      &copy; 2019 - WebAPP
     </div>
   </footer>
 </template>

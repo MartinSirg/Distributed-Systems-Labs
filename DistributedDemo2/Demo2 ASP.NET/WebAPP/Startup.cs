@@ -57,6 +57,16 @@ namespace WebAPP
                 options.Password.RequireNonAlphanumeric = false;
             });
 
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsAllowAll", builder =>
+                {
+                    builder.AllowAnyHeader();
+                    builder.AllowAnyMethod();
+                    builder.AllowAnyOrigin();
+                });
+            });
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -80,6 +90,8 @@ namespace WebAPP
             app.UseCookiePolicy();
 
             app.UseAuthentication();
+
+            app.UseCors("CorsAllowAll");
 
             app.UseMvc(routes =>
             {

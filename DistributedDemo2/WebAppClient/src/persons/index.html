@@ -1,0 +1,37 @@
+<template>
+  <h1>Index</h1>
+
+  <p>
+    <a route-href="route: personsCreate">Create New</a>
+  </p>
+  <table class="table">
+    <thead>
+    <tr>
+      <th>
+        FirstName
+      </th>
+      <th>
+        LastName
+      </th>
+      <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr repeat.for="person of persons">
+      <td>
+        ${person.firstName}
+      </td>
+      <td>
+        ${person.lastName}
+      </td>
+      <td>
+        <a href="/Persons/Edit/1">Edit</a> |
+        <a href="/Persons/Details/1">Details</a> |
+        <a href="/Persons/Delete/1">Delete</a>
+      </td>
+    </tr>
+    
+    </tbody>
+  </table>
+</template>
